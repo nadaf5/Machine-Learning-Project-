@@ -83,44 +83,12 @@ UNSUPERVISED LEARNING RESULTS
   Hierarchical clustering produced clearer participant groupings.
 
 VISUALIZATION
--------------
-
-### PCA Visualization
-![PCA Visualization](/images/PCA_Visualization.png)  
-Dimensionality reduction using PCA; shows clusters in 2D space.
-
-### Model Performance Comparison
-![Model Performance Comparison](/images/Model_Performance_Comparison.png)  
-Bar chart comparing Logistic Regression vs Random Forest using Accuracy, Precision, Recall, F1-score.
-
-### Hierarchical Clusters Dendrogram
-![Hierarchical Clusters Dendrogram](/images/Hierarchical_Clusters_Dendrogram.png)  
-Dendrogram illustrating hierarchical clustering relationships and distances.
-
-### Elbow Method
-![Elbow Method](/images/Elbow_Method.png)  
-Elbow curve to determine the optimal number of clusters for K-Means.
-
-### Combined Model Performance Comparison
-![Combined Model Performance Comparison](/images/Combined_Model_Performance_Comparison.png)  
-Comparison of supervised and unsupervised models, showing Accuracy and Silhouette Scores.
-
-## Visualizations
-
-### PCA Visualization
 ![PCA Visualization](images/PCA_Visualization.jpg)
-
-### Model Performance Comparison
 ![Model Performance Comparison](images/Model_Performance_Comparison.jpg)
-
-### Hierarchical Clusters Dendrogram
 ![Hierarchical Clusters Dendrogram](images/Hierarchical_Clusters_Dendrogram.jpg)
-
-### Elbow Method
 ![Elbow Method](images/Elbow_Method.jpg)
-
-### Combined Model Performance Comparison
 ![Combined Model Performance Comparison](images/Combined_Model_Performance_Comparison.jpg)
+
 
 
 KEY INSIGHTS
