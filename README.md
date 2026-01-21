@@ -19,6 +19,8 @@ DATASET
 -------
 - Source:
   Kaggle – Mental Health in Tech Survey.
+  - Dataset Link:
+  https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey
 - Size:
   1,259 survey responses from tech professionals.
 - Target Variable:
