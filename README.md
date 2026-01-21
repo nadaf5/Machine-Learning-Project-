@@ -82,21 +82,10 @@ UNSUPERVISED LEARNING RESULTS
 - Interpretation:
   Hierarchical clustering produced clearer participant groupings.
 -----------------------------
-## Project Visualizations
-
-### PCA Visualization
-![PCA Visualization](images/PCA_Visualization.png)
-
-### Model Performance Comparison
+![PCA Visualization](images/Pca_Visualization.png)
 ![Model Performance Comparison](images/Model_Performance_Comparison.png)
-
-### Hierarchical Clusters Dendrogram
 ![Hierarchical Clusters Dendrogram](images/Hierarchical_Clusters_Dendrogram.png)
-
-### Elbow Method
 ![Elbow Method](images/Elbow_Method.png)
-
-### Combined Model Performance Comparison
 ![Combined Model Performance Comparison](images/Combined_Model_Performance_Comparison.png)
 
 
