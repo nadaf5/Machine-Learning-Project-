@@ -82,21 +82,28 @@ UNSUPERVISED LEARNING RESULTS
 - Interpretation:
   Hierarchical clustering produced clearer participant groupings.
 -----------------------------
+## Data Visualizations
+
 ### PCA Visualization
-![PCA Visualization](images/PCA_Visualization.png)
+![PCA Visualization](PCA_Visualization.png)  
+The dataset was reduced to 2 dimensions using PCA for visualization, showing clusters identified by K-Means and Hierarchical Clustering.
 
 ### Model Performance Comparison
-![Model Performance Comparison](images/Model_Performance_Comparison.png)
+![Model Performance Comparison](Model_Performance_Comparison.png)  
+Comparison of Logistic Regression vs Random Forest based on Accuracy, Precision, Recall, and F1 Score.
 
 ### Hierarchical Clusters Dendrogram
-![Hierarchical Clusters Dendrogram](images/Hierarchical_Clusters_Dendrogram.png)
+![Hierarchical Clusters Dendrogram](Hierarchical_Clusters_Dendrogram.png)  
+Dendrogram illustrating the hierarchical structure of participant clusters.
 
 ### Elbow Method
-![Elbow Method](images/Elbow_Method.png)
+![Elbow Method](Elbow_Method.png)  
+Used to find the optimal number of clusters for K-Means clustering.
 
 ### Combined Model Performance Comparison
-![Combined Model Performance Comparison](images/Combined_Model_Performance_Comparison.png)
-
+![Combined Model Performance Comparison](Combined_Model_Performance_Comparison.png)  
+Comparison of supervised (Accuracy) vs unsupervised (Silhouette) model performance.
+------------
 
 KEY INSIGHTS
 ------------
