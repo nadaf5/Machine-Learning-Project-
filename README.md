@@ -85,23 +85,18 @@ UNSUPERVISED LEARNING RESULTS
 ## Project Visualizations
 
 ### PCA Visualization
-_This plot shows the dataset reduced to 2 principal components using PCA, and visualizes the clusters discovered by K-Means and Hierarchical Clustering._
 ![PCA Visualization](images/PCA_Visualization.png)
 
 ### Model Performance Comparison
-_Comparison of Logistic Regression vs Random Forest in terms of Accuracy, Precision, Recall, and F1 Score._
 ![Model Performance Comparison](images/Model_Performance_Comparison.png)
 
 ### Hierarchical Clusters Dendrogram
-_Dendrogram showing the hierarchical clustering structure of the dataset, helping to decide the number of clusters._
 ![Hierarchical Clusters Dendrogram](images/Hierarchical_Clusters_Dendrogram.png)
 
 ### Elbow Method
-_Elbow curve to determine the optimal number of clusters for K-Means clustering._
 ![Elbow Method](images/Elbow_Method.png)
 
 ### Combined Model Performance Comparison
-_Comparison of all models (supervised and unsupervised) using Accuracy for classifiers and Silhouette Score for clustering._
 ![Combined Model Performance Comparison](images/Combined_Model_Performance_Comparison.png)
 
 
