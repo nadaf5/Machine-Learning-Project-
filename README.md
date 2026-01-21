@@ -104,15 +104,9 @@ Elbow curve to determine the optimal number of clusters for K-Means.
 ### Combined Model Performance Comparison
 ![Combined Model Performance Comparison](/images/Combined_Model_Performance_Comparison.png)  
 Comparison of supervised and unsupervised models, showing Accuracy and Silhouette Scores.
+
+
 KEY INSIGHTS
-
-
-![PCA Visualization](images/PCA_Visualization.png)
-![Model Performance Comparison](images/Model_Performance_Comparison.png)
-![Hierarchical Clusters Dendrogram](images/Hierarchical_Clusters_Dendrogram.png)
-![Elbow Method](images/Elbow_Method.png)
-![Combined Model Performance Comparison](images/Combined_Model_Performance_Comparison.png)
-
 ------------
 - Mental health treatment decisions involve complex feature interactions.
 - Tree-based models outperform linear models on survey data.
