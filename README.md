@@ -100,4 +100,9 @@ CONCLUSION
 - Hierarchical Clustering provides better unsupervised insights.
 - Combining both approaches improves overall understanding.
 
+## Group Members
 
+This project was completed as a group effort by my team members :
+
+- [@layanKhalid0](https://github.com/layanKhalid0)
+- [@LamaTurki8](https://github.com/LamaTurki8)
