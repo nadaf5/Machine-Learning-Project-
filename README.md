@@ -4,7 +4,7 @@
 # Mental Health in Tech Survey – Machine Learning Analysis
 Mental Health in Tech Survey – Machine Learning Analysis
 
-Project Overview
+# Project Overview
 - Purpose:
   Analyze mental health trends among professionals in the technology sector
   and study the factors that influence seeking mental health treatment.
