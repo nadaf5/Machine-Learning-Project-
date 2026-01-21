@@ -105,6 +105,23 @@ Elbow curve to determine the optimal number of clusters for K-Means.
 ![Combined Model Performance Comparison](/images/Combined_Model_Performance_Comparison.png)  
 Comparison of supervised and unsupervised models, showing Accuracy and Silhouette Scores.
 
+## Visualizations
+
+### PCA Visualization
+![PCA Visualization](images/PCA_Visualization.jpg)
+
+### Model Performance Comparison
+![Model Performance Comparison](images/Model_Performance_Comparison.jpg)
+
+### Hierarchical Clusters Dendrogram
+![Hierarchical Clusters Dendrogram](images/Hierarchical_Clusters_Dendrogram.jpg)
+
+### Elbow Method
+![Elbow Method](images/Elbow_Method.jpg)
+
+### Combined Model Performance Comparison
+![Combined Model Performance Comparison](images/Combined_Model_Performance_Comparison.jpg)
+
 
 KEY INSIGHTS
 ------------
